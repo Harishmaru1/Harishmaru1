@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [(https://harish-maru.netlify.app/)]((https://harish-maru.netlify.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://harish-maru.netlify.app/)
 
 - 📫 How to reach me **maruharish471@gmail.com**
 
